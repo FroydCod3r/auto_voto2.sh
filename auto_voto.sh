@@ -18,7 +18,7 @@ do
 
 
 #inserir endereço e porta do proxy (para votar anônimo)
-#Pode usar o TOR
+#Pode usar o TOR(proxychains ou torsocks)
 #Pode pegar lista de proxy free na net    
 
 export http proxy=http://IP:80/
